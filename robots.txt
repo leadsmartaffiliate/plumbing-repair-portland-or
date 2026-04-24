@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://plumbing-repair-portland-or.netlify.app/sitemap.xml
